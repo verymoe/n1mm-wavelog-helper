@@ -1,0 +1,7 @@
+{
+  "udp_port": 2333,
+  "wavelog_url": "https://your-wavelog-url.com",
+  "api_key": "your-api-key-here",
+  "station_profile_id": "1",
+  "listen_address": "0.0.0.0"
+}
